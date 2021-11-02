@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+opencv-contrib-python
+tensorflow
+tensorboard
+jupyterlab
+matplotlib
+graphviz
+pillow
+pydot
+seaborn
+imbalanced-learn
