@@ -16,4 +16,8 @@
 
 `python3 -m pip install -r requirements.txt`
 
-`python3 -m pip install `
+`python3 -m pip install statsmodels `
+
+Note, if you still cant select the venv kernel in your python notebook, try adding the venv path directly to your workspace settigns json: 
+
+`"settings": { "python.pythonPath": "/absolute/path/to/fourthbrain_venv/lib/python3.8"`
