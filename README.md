@@ -4,7 +4,7 @@ This repo contains assignments and miniprojects for the Fourthbrain program.
 
 **1: Requirments**
 
-See ***Environemnt*** section for setup and pip library requirments for running notebooks in this repository. I recommend using VS code (IDE). The 
+See ***Environemnt*** section for setup and pip library requirments for running notebooks in this repository. I recommend using VS code (IDE). The
 
 **2: File Structure**
 
@@ -44,3 +44,7 @@ See the directory section for location of Fourthbrain assignments, and mini proj
 
 * data/week1/sales_Q12_2019.csv
 * data/week1/sales_Q34_2019.csv
+
+### Assignment 4: GD For Housing Prices
+
+**notebook:** assignments/1.4_Multivariate_Linear_Regression_Python.ipynb
