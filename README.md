@@ -48,3 +48,12 @@ See the directory section for location of Fourthbrain assignments, and mini proj
 ### Assignment 4: GD For Housing Prices
 
 **notebook:** assignments/1.4_Multivariate_Linear_Regression_Python.ipynb
+
+### Assignment 5: Covid 19 Predictions
+
+**notebook:** assignments/1.5_COVID_19_Predictions_for_Chicago.ipynb
+
+$$
+$
+
+$$
