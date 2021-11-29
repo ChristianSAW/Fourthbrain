@@ -4,7 +4,7 @@ This repo contains assignments and miniprojects for the Fourthbrain program.
 
 **1: Requirments**
 
-See ***Environemnt*** section for setup and pip library requirments for running notebooks in this repository. I recommend using VS code (IDE). The
+See ***Environemnt*** section for setup and pip library requirments for running notebooks in this repository. I recommend using VS code (IDE).
 
 **2: File Structure**
 
@@ -69,3 +69,11 @@ See the directory section for location of Fourthbrain assignments, and mini proj
 ### Assignment 7: Support Vector Machines
 
 **notebook:** assignments/2.4_Support_Vector_Machines.ipynb
+
+### Assignment 8: Bank Credit Data Wrangling and Classification
+
+**notebook:** assignments/2.6_Bank_Credit_Data_Wrangling_and_Classification.ipynb
+
+**data:**
+
+* data/week2/bank-full.csv
