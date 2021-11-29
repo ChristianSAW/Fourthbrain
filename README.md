@@ -65,3 +65,7 @@ See the directory section for location of Fourthbrain assignments, and mini proj
 * data/week2/X_train.csv
 * data/week2/some_column_descriptions.png
 * data/week2/user_journey_descriptions.png
+
+### Assignment 7: Support Vector Machines
+
+**notebook:** assignments/2.4_Support_Vector_Machines.ipynb
