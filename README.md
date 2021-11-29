@@ -4,7 +4,7 @@ This repo contains assignments and miniprojects for the Fourthbrain program.
 
 **1: Requirments**
 
-See ***Environemnt*** section for setup and pip library requirments for running notebooks in this repository. I recommend using VS code (IDE). The
+See ***Environemnt*** section for setup and pip library requirments for running notebooks in this repository. I recommend using VS code (IDE).
 
 **2: File Structure**
 
@@ -48,3 +48,32 @@ See the directory section for location of Fourthbrain assignments, and mini proj
 ### Assignment 4: GD For Housing Prices
 
 **notebook:** assignments/1.4_Multivariate_Linear_Regression_Python.ipynb
+
+### Assignment 5: Covid 19 Predictions
+
+**notebook:** assignments/1.5_COVID_19_Predictions_for_Chicago.ipynb
+
+## Week 2
+
+### Week 2 Mini Project
+
+**notebook:** miniprojects/week2_miniproject_1B_CW.ipynb
+
+**data:**
+
+* data/week2/X_test.csv
+* data/week2/X_train.csv
+* data/week2/some_column_descriptions.png
+* data/week2/user_journey_descriptions.png
+
+### Assignment 7: Support Vector Machines
+
+**notebook:** assignments/2.4_Support_Vector_Machines.ipynb
+
+### Assignment 8: Bank Credit Data Wrangling and Classification
+
+**notebook:** assignments/2.6_Bank_Credit_Data_Wrangling_and_Classification.ipynb
+
+**data:**
+
+* data/week2/bank-full.csv
