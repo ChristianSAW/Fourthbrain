@@ -77,3 +77,14 @@ See the directory section for location of Fourthbrain assignments, and mini proj
 **data:**
 
 * data/week2/bank-full.csv
+
+## Week 3
+
+### Week 3 Mini Project
+
+**notebook:** miniprojects/week3_miniproject_1C_CW.ipynb
+
+**data:**
+
+* data/week3/Cosmetics_data_2019.csv
+* data/week3/T-SNE_Plot.png
