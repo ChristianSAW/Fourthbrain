@@ -92,3 +92,7 @@ See the directory section for location of Fourthbrain assignments, and mini proj
 ### Assignment 6: K-Means Clustering
 
 **notebook:** assignments/week3/3.1_K_Means.ipynb
+
+### Assignment 7: Anomaly Detection
+
+**notebook:** assignments/week3/3.2_Anomaly_Detection_with_PyOD.ipynb
