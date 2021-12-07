@@ -47,11 +47,11 @@ See the directory section for location of Fourthbrain assignments, and mini proj
 
 ### Assignment 4: GD For Housing Prices
 
-**notebook:** assignments/1.4_Multivariate_Linear_Regression_Python.ipynb
+**notebook:** assignments/week1/1.4_Multivariate_Linear_Regression_Python.ipynb
 
 ### Assignment 5: Covid 19 Predictions
 
-**notebook:** assignments/1.5_COVID_19_Predictions_for_Chicago.ipynb
+**notebook:** assignments/week1/1.5_COVID_19_Predictions_for_Chicago.ipynb
 
 ## Week 2
 
@@ -68,11 +68,11 @@ See the directory section for location of Fourthbrain assignments, and mini proj
 
 ### Assignment 7: Support Vector Machines
 
-**notebook:** assignments/2.4_Support_Vector_Machines.ipynb
+**notebook:** assignments/week2/2.4_Support_Vector_Machines.ipynb
 
 ### Assignment 8: Bank Credit Data Wrangling and Classification
 
-**notebook:** assignments/2.6_Bank_Credit_Data_Wrangling_and_Classification.ipynb
+**notebook:** assignments/week2/2.6_Bank_Credit_Data_Wrangling_and_Classification.ipynb
 
 **data:**
 
@@ -91,4 +91,8 @@ See the directory section for location of Fourthbrain assignments, and mini proj
 
 ### Assignment 6: K-Means Clustering
 
-**notebook:** assignments/3.1_K_Means.ipynb
+**notebook:** assignments/week3/3.1_K_Means.ipynb
+
+### Assignment 7: Anomaly Detection
+
+**notebook:** assignments/week3/3.2_Anomaly_Detection_with_PyOD.ipynb
