@@ -88,3 +88,7 @@ See the directory section for location of Fourthbrain assignments, and mini proj
 
 * data/week3/Cosmetics_data_2019.csv
 * data/week3/T-SNE_Plot.png
+
+### Assignment 6: K-Means Clustering
+
+**notebook:** assignments/3.1_K_Means.ipynb
