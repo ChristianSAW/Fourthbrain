@@ -96,3 +96,17 @@ See the directory section for location of Fourthbrain assignments, and mini proj
 ### Assignment 7: Anomaly Detection
 
 **notebook:** assignments/week3/3.2_Anomaly_Detection_with_PyOD.ipynb
+
+
+## Week 4
+
+### Week 4 Mini Project
+
+**notebook:** miniprojects/week3_miniproject_1D_CW.ipynb
+
+**data:**
+
+* data/week4/image10.png
+* data/week4/Next_month_products.csv
+* data/week4/Past_month_products.csv
+* data/week4/Target_Cosmetics_System_Design.png
