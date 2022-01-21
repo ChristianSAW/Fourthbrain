@@ -131,5 +131,5 @@ dmypy.json
 .pyre/
 
 # Fourthbrain
-hidden_files/*
+hidden_files/**
 */logs/*
