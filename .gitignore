@@ -137,5 +137,5 @@ dmypy.json
 .DS_Store
 
 # Fourthbrain
-hidden_files/**
+
 */logs/*
